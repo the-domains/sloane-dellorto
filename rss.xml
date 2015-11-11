@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sloane DellOrto]]></title>
         <description><![CDATA[Sloane DellOrto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sloane-dellorto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 04:08:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 04:09:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sloane-dellorto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/sloane-dellorto/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">b1610024-5824-4777-801c-0638f7f2c716</guid>
+            <pubDate>Wed, 11 Nov 2015 04:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Something very interesting</p>]]></description>
-            <link>undefined6ec3c75e-f7a2-4ffb-b15e-72f58e41cabe/index.html</link>
+            <link>https://thegrid.ai/sloane-dellorto/6ec3c75e-f7a2-4ffb-b15e-72f58e41cabe/index.html</link>
             <guid isPermaLink="false">6ec3c75e-f7a2-4ffb-b15e-72f58e41cabe</guid>
             <pubDate>Wed, 11 Nov 2015 04:08:21 GMT</pubDate>
         </item>
