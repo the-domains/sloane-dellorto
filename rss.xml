@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sloane DellOrto]]></title>
+        <description><![CDATA[Sloane DellOrto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 04:08:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Something very interesting</p>]]></description>
+            <link>undefined6ec3c75e-f7a2-4ffb-b15e-72f58e41cabe/index.html</link>
+            <guid isPermaLink="false">6ec3c75e-f7a2-4ffb-b15e-72f58e41cabe</guid>
+            <pubDate>Wed, 11 Nov 2015 04:08:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
