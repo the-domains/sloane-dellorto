@@ -1,0 +1,23 @@
+name: Sloane DellOrto
+favicon: null
+layout_spectrum: 0.4563008248806
+typography_spectrum: 0.7907736578490585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4474945014808327
+  lightness: 0.6891250156331807
+  saturation: 0.8917279345914721
+  rhythmicContrast: 0.5595477775204927
+purpose: []
