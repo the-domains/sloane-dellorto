@@ -1,7 +1,7 @@
 name: Sloane DellOrto
 favicon: null
 layout_spectrum: 0.00445
-typography_spectrum: 0
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#be312d'
     - '#a2aaae'
     - '#d88482'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.3125
   saturation: 0.5625
   rhythmicContrast: 0
